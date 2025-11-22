@@ -1,4 +1,4 @@
-from colorama import Fore, Style, init
+from colorama import Fore, init, Style
 init(autoreset=True)
 #Dictionary to store user's information:
 user = {}
